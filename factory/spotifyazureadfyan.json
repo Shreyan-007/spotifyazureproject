@@ -1,0 +1,15 @@
+{
+	"name": "spotifyazureadfyan",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f3eeb59-eb02-4c2e-93c9-d927c89dacd6",
+		"tenantId": "686a8dee-38a2-4c6b-b988-51de935ca729"
+	}
+}
