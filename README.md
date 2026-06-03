@@ -1,6 +1,7 @@
 # spotifyazureproject
 
 #Pipeline in Bronze Layer
-![Pipeline](screenshots/Main.png)
 
-![Dashboard](screenshots/dashboard.png)
+![Pipeline](screenshots/MainPipeline.png)
+
+![Inside the Loop](screenshots/ForEachLoop.png)
